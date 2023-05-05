@@ -11,7 +11,11 @@ Admin users can log in to the admin panel to manage products, orders, and users.
 - Django - Python web framework for building web applications
 - TailwindCSS utility-first CSS framework for building responsive web pages
 - HTML - markup language for creating web pages
-
+<p float="left">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" width="100" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="100" />
+</p>
 # Project Important Pages
 ## HOME PAGE
 <img
