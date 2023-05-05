@@ -4,7 +4,7 @@ This project is an online shop for jewelry where users can browse and purchase v
   src="/images/home_.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 ## Getting Started
 To get started with the project, you will need to have Python 3 and pip installed on your system. You can download Python from the official website https://www.python.org/downloads/.
 ## Functionality
