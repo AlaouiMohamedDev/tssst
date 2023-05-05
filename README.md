@@ -64,5 +64,6 @@ Admin users can log in to the admin panel to manage products, orders, and users.
   title="Optional title"
   style="display: inline-block; margin: 0 auto; height="30">
 </h3>
+
 ## Conclusion
 This online jewelry shop project demonstrates the use of Django and TailwindCSS to build a web application for e-commerce. The project provides functionality for browsing and purchasing jewelry items, as well as managing products, orders, and users through the admin panel. By using these technologies, the project is able to provide a responsive and user-friendly experience for customers.
