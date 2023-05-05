@@ -7,8 +7,8 @@ The website allows users to browse various types of jewelry items, including nec
 
 Admin users can log in to the admin panel to manage products, orders, and users. The admin panel provides an interface to add, update, and delete products, view orders, and manage users.
 ## Technologies Used
-Django - Python web framework for building web applications
-TailwindCSS - utility-first CSS framework for building responsive web pages
-HTML - markup language for creating web pages
+- Django - Python web framework for building web applications
+- TailwindCSS utility-first CSS framework for building responsive web pages
+- HTML - markup language for creating web pages
 ## Conclusion
 This online jewelry shop project demonstrates the use of Django and TailwindCSS to build a web application for e-commerce. The project provides functionality for browsing and purchasing jewelry items, as well as managing products, orders, and users through the admin panel. By using these technologies, the project is able to provide a responsive and user-friendly experience for customers.
