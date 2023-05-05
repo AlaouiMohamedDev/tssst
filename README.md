@@ -1,7 +1,7 @@
 # Online Jewelry Shop using Django, TailwindCSS, and HTML
 This project is an online shop for jewelry where users can browse and purchase various types of jewelry items. The web application is built using Django, a popular Python web framework, and TailwindCSS, a utility-first CSS framework. HTML is used for the markup of the web pages.
 <img
-  src="/images/home_.jpg"
+  src="/images/home_.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
